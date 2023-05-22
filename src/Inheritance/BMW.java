@@ -20,9 +20,6 @@ public class BMW implements Inheritance1 {
 		obj.start();
 		obj.stop();
 		obj.selfdrive();
-		
-		
-
-	}
+		}
 
 }
