@@ -1,6 +1,6 @@
 /*
  * author: Bapparaya
-  *added on 02/06/2023
+ *added on 02/06/2023
  */
 
 package javapracticepullreq;
