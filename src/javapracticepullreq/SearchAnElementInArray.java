@@ -1,3 +1,7 @@
+/*
+ * author: Bapparaya
+ */
+
 package javapracticepullreq;
 
 public class SearchAnElementInArray {
@@ -19,5 +23,7 @@ public class SearchAnElementInArray {
     	  System.out.println("element not fount");
       }
 	}
+	
+	
 
 }
