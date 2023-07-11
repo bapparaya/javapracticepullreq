@@ -9,6 +9,7 @@ public class Arraylist {
 		// TODO Auto-generated method stub
 
 	ArrayList ar = new ArrayList();
+	//jhhjh
 	
 	ar.add(10);
 	ar.add(20);
